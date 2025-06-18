@@ -14,7 +14,7 @@ This is Muhammad Akhlasur Rahman Tanvir, 19 years old. Habiganj sadar.
   </header>
   <section>
     <p>এই ওয়েবসাইটে আপনি ইসলামিক দাওয়াহ সম্পর্কিত কনটেন্ট পাবেন।</p>
-    <p>আমাদের সাথে যুক্ত হতে এবং দান করতে আমাদের বিকাশ নম্বরে সাহায্য করতে পারেন: 01403520600</p>
+    <p>আমাদের সাথে যুক্ত হতে কল করুন 01403520600</p>
   </section>
   <footer>
     <p>&copy; 2025, Muhammad Akhlasur Rahman Tanvir</p>
